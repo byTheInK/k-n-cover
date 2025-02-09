@@ -1,5 +1,5 @@
 FILE="$HOME/.config/kdeglobals"
-ICON_THEME="We10X-black"
+ICON_THEME="Win11-dark"
 
 if [ ! -f /var/tmp/kdeglobals ]; then
   echo "/var/tmp/kdeglobals not found"
